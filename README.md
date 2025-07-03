@@ -1,5 +1,4 @@
-﻿# ChronoTask\nCLI-Projekt- und Aufgaben­verwaltung auf .NET 8.
-
+# ChronoTask
 
 > **CLI-Projekt- und Aufgabenverwaltung auf .NET 8**  
 > Minimalistisch, plattformunabhängig und erweiterbar – perfekt für kleine Teams oder persönliche To-do-Listen.
@@ -21,4 +20,8 @@
 
 ## Schnellstart
 
-
+```bash
+# .NET 8 SDK erforderlich
+git clone https://github.com/<DEIN_USER>/ChronoTask.git
+cd ChronoTask/Bewerbungsprojekt
+dotnet run
