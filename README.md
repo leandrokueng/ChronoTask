@@ -18,10 +18,4 @@
 
 <br/>
 
-## Schnellstart
 
-```bash
-# .NET 8 SDK erforderlich
-git clone https://github.com/<DEIN_USER>/ChronoTask.git
-cd ChronoTask/Bewerbungsprojekt
-dotnet run
